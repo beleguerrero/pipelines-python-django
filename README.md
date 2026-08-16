@@ -1,5 +1,5 @@
 # Prueba de integración continua
-Este cambio se realizó para probar el trigger de Azure Pipelines.
+Cambio simple para prueba del trigger.
 
 # Sample Python app for Azure Pipelines docs
 
